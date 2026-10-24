@@ -28,3 +28,4 @@ if __name__ == "__main__":
     print("Division:", divide(10, 5))
 
 print("Pre-commit hook test")
+def broken_function(
