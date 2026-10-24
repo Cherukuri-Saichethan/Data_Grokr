@@ -35,3 +35,18 @@ Initial development.
 ## Planned Workflow
 
 Feature development → Pull Request → Merge → Release → Hotfix → Merge back into main and develop.
+
+## Release 1.0.0
+
+### Features
+- Percentage calculation
+- Feature branch workflow
+- Merge into develop
+- Gitflow release workflow
+
+### Testing
+- Verified percentage calculation using Python.
+- Confirmed successful feature merge into develop.
+
+### Version
+1.0.0
