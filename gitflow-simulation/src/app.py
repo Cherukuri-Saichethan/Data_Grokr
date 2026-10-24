@@ -15,10 +15,10 @@ def divide(a, b):
         raise ValueError("Cannot divide by zero")
     return a / b
 
-def percentage(value, total):
+def percentage(part, total):
     if total == 0:
         raise ValueError("Total cannot be zero")
-    return (value / total) * 100
+    return (part / total) * 100
 
 if __name__ == "__main__":
     print("Gitflow Simulation App")
