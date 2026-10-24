@@ -29,3 +29,4 @@ if __name__ == "__main__":
 
 print("Pre-commit hook test")
 print("Testing pre-commit hook")
+print("Automatic pre-commit hook test")
